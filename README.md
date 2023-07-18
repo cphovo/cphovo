@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an enthusiast of 1s and 0s, serving up algorithmic alchemy and painting with code on the canvas of GitHub. Dive into my repositories to witness the magic! 🎩✨
+I'm serving up algorithmic alchemy and painting with code on the canvas of GitHub. Dive into my repositories to witness the magic! 🎩✨
 
 <img align="left" src="https://github.com/cphovo/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/cphovo/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
